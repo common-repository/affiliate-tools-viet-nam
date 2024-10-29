@@ -1,0 +1,53 @@
+.config-containter {
+    width: 100%;
+}
+.tab-container {
+    padding : 0 0 0 15px;
+}
+.input-container {
+    float: left;
+    width: 100%;
+    padding-bottom: 20px;
+}
+.toggleBtn {
+    border-radius: 3px 3px 0px 0px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px 1px 0px 1px;
+    background: linear-gradient(to top, #F7F7F7 , #fff );
+    top : 1px;
+    outline: none;
+}
+#stats_panel {
+    /*padding: 10px;*/
+}
+#top10_panel {
+    padding: 10px;
+}
+#stats_container {
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 0.5px;
+    border-radius: 3px; 
+    z-index: -1;
+    background: #f7f7f7;
+    margin: 0 -5px -5px -5px !important;
+}
+#overview-chart {
+    
+}
+.text_stat {
+    color : #545454;
+}
+.config-title {
+    float: left;
+    width: 120px;
+    margin-top: 5px;
+}
+#time_period_container {
+    padding-top: 5px;
+}
+input#submit {
+    min-width: 120px;
+    margin-top: 10px;
+}
